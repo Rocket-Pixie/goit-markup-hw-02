@@ -104,7 +104,7 @@ color: #fff;
 .second_section{
     background: #f4f4fd;
 }
-.header_thirdh_box{
+.header_thirdh_head{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -153,7 +153,6 @@ color: #fff;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #2e2f42;
 }
 
