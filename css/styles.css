@@ -1,4 +1,4 @@
-.body{
+body{
     font-family: Roboto, sans-serif;
     background-color: #ffffff;
     color: #434455 ;
@@ -11,7 +11,7 @@ ul{
 }
 .logo_site{
     font-family: "Raleway", sans-serif;
-    font-weight: 700px;
+    font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
@@ -34,10 +34,12 @@ color: #2e2f42;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    font-style: normal
+    font-style: normal;
+    color: #404bbf;
 }
 .nav_link:focus{
-    font-style: normal
+    font-style: normal;
+    color: #404bbf;
 }
 .header_adres{
     font-style: normal;
@@ -87,16 +89,20 @@ color: #fff;
 .button_order:focus{
     color: #404BBF;
 }
+
 .first_section{
-    color: #2e2f42;
+    background-color: #2e2f42;
 }
 .first_section_header{
     font-weight: 700;
 font-size: 56px;
-line-height: 1.07143;
+line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
+}
+.section_first{
+    background: #f4f4fd;
 }
 .header_pages{
     font-weight: 700;
@@ -156,3 +162,9 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #f4f4fd;
 }
+.footer_page{
+    
+}
+.span_studio_footer{
+ color: #f4f4fd;
+}]
