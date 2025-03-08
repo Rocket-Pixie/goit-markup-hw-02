@@ -87,7 +87,7 @@ color: #fff;
     color: #fff;
 }
 .button_order:focus{
-    color: #404BBF;
+    background-color: #404BBF
 }
 
 .first_section{
