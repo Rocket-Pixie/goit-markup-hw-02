@@ -69,10 +69,10 @@ color: #434455;
     cursor: pointer;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.04em;
-color: #fff;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
 }
 .button_order:hover{
 
@@ -101,8 +101,25 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
 }
-.section_first{
+.second_section{
     background: #f4f4fd;
+}
+.header_border_box{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.paragraf_text_body{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.triple_section{
+    
 }
 .header_pages{
     font-weight: 700;
@@ -116,13 +133,7 @@ color: #fff;
 .header_pages_list{
     background-color: #FFFFFF;
 }
-.header_border_box{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
+
 .header_border_team{
     font-weight: 500;
     font-size: 20px;
@@ -131,13 +142,7 @@ color: #fff;
     text-align: center;
     color: #2e2f42;
 }
-.paragraf_text_body{
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
+
 .paragraf_text_team{
 font-weight: 400;
 font-size: 16px;
@@ -146,9 +151,7 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #434455;
 }
-.second_section{
-    background: #f4f4fd;
-}
+
 .thirdh_section{
 
 }
@@ -167,4 +170,4 @@ color: #f4f4fd;
 }
 .span_studio_footer{
  color: #f4f4fd;
-}]
+}
