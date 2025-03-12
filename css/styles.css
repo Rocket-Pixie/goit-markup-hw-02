@@ -63,8 +63,6 @@ color: #434455;
     color: #404bbf;
 } /*Адресна інформація*/
 .button_order{
-
-    justify-content: flex-start;
     background: #4d5ae5;
     cursor: pointer;
     font-family: "Roboto", sans-serif;
@@ -75,8 +73,6 @@ color: #434455;
     color: #fff;
 }
 .button_order:hover{
-
-    justify-content: flex-start;
     background: #404bbf;
     cursor: pointer;
     font-family: "Roboto", sans-serif;
