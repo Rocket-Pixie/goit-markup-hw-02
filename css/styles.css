@@ -73,6 +73,7 @@ color: #434455;
     color: #fff;
 }
 .button_order:hover{
+    
     background: #404bbf;
     cursor: pointer;
     font-family: "Roboto", sans-serif;
