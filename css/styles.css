@@ -62,7 +62,7 @@ color: #434455;
 .header_contacts:focus{
     color: #404bbf;
 } /*Адресна інформація*/
-.button_order{
+.button_first_section{
     background: #4d5ae5;
     cursor: pointer;
     font-family: "Roboto", sans-serif;
@@ -72,7 +72,7 @@ color: #434455;
     letter-spacing: 0.04em;
     color: #fff;
 }
-.button_order:hover{
+.button_first_section:hover{
 
     background: #404bbf;
     cursor: pointer;
@@ -83,7 +83,7 @@ color: #434455;
     letter-spacing: 0.04em;
     color: #fff;
 }
-.button_order:focus{
+.button_first_section:focus{
     background-color: #404BBF
 }
 /*Оформлення кнопки*/
